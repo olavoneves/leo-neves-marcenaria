@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        title: ['Montserrat Alternates', 'sans-serif'],
+        body: ['Raleway', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -46,6 +50,11 @@ export default {
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
+        },
+        wood: {
+          primary: "hsl(var(--wood-primary))",
+          secondary: "hsl(var(--wood-secondary))",
+          accent: "hsl(var(--wood-accent))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
