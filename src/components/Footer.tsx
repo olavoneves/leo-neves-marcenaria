@@ -1,4 +1,4 @@
-import logo from "@/assets/logo.png";
+import logo from "@/assets/Captura_de_tela_2025-11-14_155253-removebg-preview.png";
 
 const Footer = () => {
   return (
@@ -8,7 +8,7 @@ const Footer = () => {
           <div>
             <img 
               src={logo} 
-              alt="LEO NEVES MARCENARIA" 
+              alt="Neves Marcenaria" 
               className="h-12 mb-4 brightness-0 invert"
             />
             <p className="font-body text-sm text-background/80">
@@ -66,7 +66,7 @@ const Footer = () => {
         
         <div className="border-t border-background/20 pt-8 text-center">
           <p className="font-body text-sm text-background/70">
-            © 2025 LEO NEVES MARCENARIA — Todos os direitos reservados.
+            © 2025 Neves Marcenaria — Todos os direitos reservados.
           </p>
         </div>
       </div>

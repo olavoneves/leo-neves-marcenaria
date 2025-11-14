@@ -1,11 +1,11 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle, Mail } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
-import logo from "@/assets/logo.png";
+import logo from "@/assets/Captura_de_tela_2025-11-14_160826-removebg-preview.png";
 
 const Hero = () => {
   const handleWhatsApp = () => {
-    window.open('https://wa.me/5511999999999?text=Olá, gostaria de solicitar um orçamento', '_blank');
+    window.open('https://wa.me/5511955502307?text=Olá, gostaria de solicitar um orçamento', '_blank');
   };
 
   const handleContact = () => {

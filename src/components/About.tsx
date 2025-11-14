@@ -19,7 +19,7 @@ const About = () => {
             </h2>
             
             <p className="font-body text-lg text-foreground/80 leading-relaxed">
-              Na <strong className="text-primary">LEO NEVES MARCENARIA</strong>, cada projeto nasce da paixão pela madeira. Criamos móveis sob medida que combinam tradição, estética e funcionalidade, trazendo aconchego e elegância para o seu espaço.
+              Na <strong className="text-primary">Neves Marcenaria</strong>, cada projeto nasce da paixão pela madeira. Criamos móveis sob medida que combinam tradição, estética e funcionalidade, trazendo aconchego e elegância para o seu espaço.
             </p>
             
             <p className="font-body text-lg text-foreground/80 leading-relaxed mt-4">

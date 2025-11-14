@@ -19,7 +19,7 @@ const Contact = () => {
     e.preventDefault();
     
     const message = `Olá! Meu nome é ${formData.name}.%0A%0A${formData.message}%0A%0AE-mail: ${formData.email}`;
-    window.open(`https://wa.me/5511999999999?text=${message}`, '_blank');
+    window.open(`https://wa.me/5511955502307?text=${message}`, '_blank');
     
     toast({
       title: "Redirecionando para WhatsApp",
